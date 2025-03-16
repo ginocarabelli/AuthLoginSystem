@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\bin\Debug\net8.0\JWT.deps.json
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\bin\Debug\net8.0\JWT.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\bin\Debug\net8.0\JWT.dll
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\bin\Debug\net8.0\JWT.pdb
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\bin\Debug\net8.0\back.dll
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\bin\Debug\net8.0\back.pdb
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.csproj.Up2Date
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.dll
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\refint\JWT.dll
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.pdb
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\JWT.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyectos\Librerias\JWT\obj\Debug\net8.0\ref\JWT.dll

@@ -1,0 +1,37 @@
+C:\Users\User\Desktop\Proyectos\Librerias\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\User\Desktop\Proyectos\Librerias\backend\bin\Debug\net8.0\backend.dll
+C:\Users\User\Desktop\Proyectos\Librerias\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\backend.dll
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\User\Desktop\Proyectos\Librerias\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\bin\Debug\net8.0\backend.dll
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\backend.dll
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\User\Desktop\Proyectos\Auth System\Backend\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\bin\Debug\net8.0\backend.dll
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.dll
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\User\Desktop\Proyectos\AuthLoginSystem\Backend\backend\obj\Debug\net8.0\ref\backend.dll
